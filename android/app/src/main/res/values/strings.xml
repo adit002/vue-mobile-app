@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VueMobile</string>
+    <string name="title_activity_main">VueMobile</string>
+    <string name="package_name">com.academind.vuemobile</string>
+    <string name="custom_url_scheme">com.academind.vuemobile</string>
+</resources>
